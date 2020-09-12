@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task_id: 1
+  start_date: 2020-09-12
+  end_date: 2020-09-12
+  expect_time: 1
+  task_name: MyString
+  content: MyString
+  result_time: 1
+  progress_rate: 1
+  user_id: MyString
+  task_kind_id: MyString
+  task_status: 1
+
+two:
+  task_id: 1
+  start_date: 2020-09-12
+  end_date: 2020-09-12
+  expect_time: 1
+  task_name: MyString
+  content: MyString
+  result_time: 1
+  progress_rate: 1
+  user_id: MyString
+  task_kind_id: MyString
+  task_status: 1
